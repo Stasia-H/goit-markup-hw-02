@@ -19,12 +19,14 @@ ul {
 list-style-type: none;
 }
 
-h2 {
+.second-title {
 font-size: 36px;
 font-weight: 700;
-line-height: 1.1;
+line-height: 1.11;
 text-transform: capitalize;
 text-align: center;
+letter-spacing: 0.02em;
+color:#2e2f42;
 }
 
 h3 {
@@ -33,6 +35,7 @@ h3 {
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    color:#2e2f42;
 }
 
 /* Default */
@@ -97,7 +100,7 @@ line-height: 1.07;
 letter-spacing: 0.02em;
 }
 
-button {
+.order-button {
 background:#4D5AE5;
 font-weight: 500;
 line-height: 1.5;
@@ -105,7 +108,7 @@ letter-spacing: 0.04em;
 cursor:pointer;
 }
 
-button:hover {
+button:hover, :active {
 background-color: #404BBF;
 }
 
@@ -116,6 +119,14 @@ background-color: #404BBF;
 /* Section 2 */
 
 /* Section 3 */
+
+.third-section {
+    background-color:#F4F4FD;
+    }
+
+.team-items {
+    background-color: #FFFFFF;
+}
 
 /* Section 3 */
 
