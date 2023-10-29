@@ -42,7 +42,7 @@ color:#4d5ae5;
 }
 
 span {
-color: #2e2f42;
+color:#2e2f42;
 }
 
 /* Logo */ 
@@ -95,6 +95,7 @@ background-color: #404BBF;
 
  .footer-item
  {
+font-family: Raleway, sans-serif;
 background-color:#2E2F42;
 color:#F4F4FD;
 }
