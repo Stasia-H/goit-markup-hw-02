@@ -32,31 +32,35 @@ text-align: center;
 /* Logo */ 
 
 .logo {
-font-family: Raleway;
+font-family: Raleway, sans-serif;
 font-size: 18px;
 font-weight: 700;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
+color:#4d5ae5;
 }
 
 span {
-color:#4D5AE5;
+color: #2e2f42;
 }
 
 /* Logo */ 
 
-/* Navigation */ 
+/* Header */ 
 
-nav {
+nav, address {
+font-weight: 500;
 color:#2E2F42;
 }
 
-.nav-item:active {
-background: #404BBF;
+nav, address
+:hover, 
+:focus {
+color:#2e2f42;
 }
 
-/* Navigation */ 
+/* Header */ 
 
 /* Section 1 */ 
 
