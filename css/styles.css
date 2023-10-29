@@ -55,20 +55,22 @@ font-weight: 500;
 color:#2E2F42;
 }
 
-.nav-link
-:hover, 
-:focus {
-color:#404BBF;
+.nav-link:hover,
+.nav-link:focus {
+color:#404bbf;
 }
 
 .address-section {
-font-style: normal;
+    font-style: normal;
+}
+
+.address-items {
 color:#434455; 
 }
 
 .address-items:hover, 
 .address-items:focus {
-color:#404BBF;
+color:#404bbf;
 }
 
 /* END Header */ 
