@@ -38,7 +38,7 @@ h3 {
     color:#2e2f42;
 }
 
-/* Default */
+/* END Default */
 
 /* Logo */ 
 
@@ -61,7 +61,7 @@ color:#f4f4fd;
 }
 
 
-/* Logo */ 
+/* END Logo */ 
 
 /* Header */ 
 
@@ -70,7 +70,7 @@ font-weight: 500;
 color:#2E2F42;
 }
 
-.nav-item, .address-items
+.nav-item
 :hover, 
 :focus {
 color:#404BBF;
@@ -78,9 +78,16 @@ color:#404BBF;
 
 .address-items {
 font-style: normal;
+color:#434455; 
 }
 
-/* Header */ 
+.address-items
+:hover, 
+:focus {
+color:#404BBF;
+}
+
+/* END Header */ 
 
 /* Section 1 */ 
 
@@ -89,11 +96,11 @@ background-color:#2E2F42;
 text-align: center;
 }
 
-h1, button {
+.title, .order-button {
 color:#fff
 }
 
-h1 {
+.title {
 font-size: 56px;
 font-weight: 700;
 line-height: 1.07;
@@ -108,11 +115,13 @@ letter-spacing: 0.04em;
 cursor:pointer;
 }
 
-button:hover, :active {
+.order-button
+:hover, 
+:active {
 background-color: #404BBF;
 }
 
-/* Section 1 */ 
+/* END Section 1 */ 
 
 /* Section 2 */
 
@@ -140,7 +149,7 @@ background-color: #404BBF;
 background-color:#2E2F42;
 }
 
-.footer-item {
+.footer-paragraph {
 font-family: Raleway, sans-serif;
 color:#F4F4FD;
 }
