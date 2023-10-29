@@ -62,15 +62,19 @@ color:#f4f4fd;
 
 /* Header */ 
 
-nav, address {
+.nav-item, .address-items {
 font-weight: 500;
 color:#2E2F42;
 }
 
-nav, address
+.nav-item, .address-items
 :hover, 
 :focus {
-color:#2e2f42;
+color:#404BBF;
+}
+
+.address-items {
+font-style: normal;
 }
 
 /* Header */ 
@@ -95,6 +99,9 @@ letter-spacing: 0.02em;
 
 button {
 background:#4D5AE5;
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.04em;
 cursor:pointer;
 }
 
