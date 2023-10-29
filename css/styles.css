@@ -1,0 +1,99 @@
+/* Default */
+
+body {
+font-family: Roboto, Arial, Helvetica, sans-serif;
+background-color: #FCFCFC;
+font-size: 16px;
+line-height: 1.5;
+font-weight: 400;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+
+a {
+text-decoration: none;
+}
+
+ul {
+list-style-type: none;
+}
+
+h2 {
+font-size: 36px;
+font-weight: 700;
+line-height: 1.1;
+text-transform: capitalize;
+text-align: center;
+}
+
+/* Default */
+
+/* Logo */ 
+
+.logo {
+font-family: Raleway;
+font-size: 18px;
+font-weight: 700;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+}
+
+span {
+color:#4D5AE5;
+}
+
+/* Logo */ 
+
+/* Navigation */ 
+
+nav {
+color:#2E2F42;
+}
+
+.nav-item:active {
+background: #404BBF;
+}
+
+/* Navigation */ 
+
+/* Section 1 */ 
+
+.first-section {
+background-color:#2E2F42;
+text-align: center;
+}
+
+h1, button {
+color:#fff
+}
+
+h1 {
+font-size: 56px;
+font-weight: 700;
+line-height: 1.07;
+letter-spacing: 0.02em;
+}
+
+button {
+background:#4D5AE5;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+cursor:pointer;
+}
+
+button:hover {
+background-color: #404BBF;
+}
+
+/* Section 1 */ 
+
+/* Footer */
+
+ .footer-item
+ {
+background-color:#2E2F42;
+color:#F4F4FD;
+}
+
+/* Footer */
