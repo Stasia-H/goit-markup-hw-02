@@ -65,25 +65,28 @@ color:#f4f4fd;
 
 /* Header */ 
 
+.nav-link {
+    color:#2e2f42;
+}
+
 .nav-item, .address-items {
 font-weight: 500;
 color:#2E2F42;
 }
 
-.nav-item
+.nav-link
 :hover, 
 :focus {
 color:#404BBF;
 }
 
-.address-items {
+.address-section {
 font-style: normal;
 color:#434455; 
 }
 
-.address-items
-:hover, 
-:focus {
+.address-items:hover, 
+.address-items:focus {
 color:#404BBF;
 }
 
@@ -115,15 +118,18 @@ letter-spacing: 0.04em;
 cursor:pointer;
 }
 
-.order-button
-:hover, 
-:active {
+.order-button:hover, 
+.order-button:focus {
 background-color: #404BBF;
 }
 
 /* END Section 1 */ 
 
 /* Section 2 */
+
+.section-paragraph {
+    
+}
 
 /* Section 2 */
 
