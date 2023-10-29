@@ -19,25 +19,6 @@ ul {
 list-style-type: none;
 }
 
-.second-title {
-font-size: 36px;
-font-weight: 700;
-line-height: 1.11;
-text-transform: capitalize;
-text-align: center;
-letter-spacing: 0.02em;
-color:#2e2f42;
-}
-
-h3 {
-    font-family: Roboto;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color:#2e2f42;
-}
-
 /* END Default */
 
 /* Logo */ 
@@ -92,6 +73,29 @@ color:#404BBF;
 
 /* END Header */ 
 
+/* Sections GENERAL */ 
+
+.second-title {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11;
+    text-transform: capitalize;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color:#2e2f42;
+    }
+
+.third-header {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:#2e2f42;
+    }
+
+/* END Sections GENERAL */
+
 /* Section 1 */ 
 
 .first-section {
@@ -125,14 +129,6 @@ background-color: #404BBF;
 
 /* END Section 1 */ 
 
-/* Section 2 */
-
-.section-paragraph {
-    
-}
-
-/* Section 2 */
-
 /* Section 3 */
 
 .third-section {
@@ -143,11 +139,7 @@ background-color: #404BBF;
     background-color: #FFFFFF;
 }
 
-/* Section 3 */
-
-/* Section 4 */
-
-/* Section 4 */
+/* END Section 3 */
 
 /* Footer */
 
